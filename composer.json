@@ -1,0 +1,16 @@
+{
+    "name": "reftab/reftab-php",
+    "description": "A quick library to interface with Reftab API using PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Hoyt",
+            "email": "robert.hoyt@reftab.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Reftab\\": "src/"}
+    },
+    "require": {}
+}
